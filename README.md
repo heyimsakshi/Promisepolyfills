@@ -1,2 +1,2 @@
-# Promise-methods-polyfills-forked-
+# Promise-methods-polyfills
 Created with CodeSandbox
